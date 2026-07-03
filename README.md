@@ -1,6 +1,6 @@
 # 👨‍💻 Corey Leath | AI Systems Architect & Software Engineer
 
-Aspiring Ph.D. researcher specializing in high-throughput MLOps infrastructure, distributed multi-agent frameworks, and autonomous system architecture. Currently architecting scalable microservices in .NET/C# and Python.
+Aspiring Ph.D. researcher, Software Developer, and ML Engineer specializing in high-throughput MLOps infrastructure, distributed multi-agent frameworks, and autonomous system architecture. Currently architecting scalable microservices in .NET/C# and Python.
 
 ### 🚀 Live Engineering Telemetry (Recent Pushes)
 
