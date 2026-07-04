@@ -137,9 +137,8 @@ University of Purdue (Planned)
 Bachelor of Science — Software Development Specialized in web and mobile applications
 DeVry University
 Specialization: Web & Mobile Applications
-
 Associate of Science — Engineering Technology specializing in Machine learning and design techniques
-Associate of Science - Information Technology
+Associate of Science - Information Technology and Networking
 
 
 
