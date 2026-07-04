@@ -113,6 +113,25 @@ Data Engineering
 
 [![Corey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoreyLeath-code&theme=react-dark&hide_border=true)](https://github.com/CoreyLeath-code)
 
+
+## 📊 Automated Engineering Metrics & Analytics
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreyLeath-code&theme=tokyonight&hide_border=true&sideNums=EF3550&sideLabels=EF3550&dates=707070" alt="Corey's Commit Streak" height="195px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=CoreyLeath-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Corey's Global GitHub Stats" height="195px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyLeath-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Corey's Top Languages" height="165px" />
+</p>
+
+---
+
+
+
+
+
 ## Education
 
 ### Master of Science — AI Engineering
