@@ -128,6 +128,7 @@ Specialization: Web & Mobile Applications
 Associate of Science — Engineering Technology specializing in Machine learning and design techniques
 Associate of Science - Information Technology and Networking
 
+Completed Harvard University's CS50x (Introduction to Computer Science), mastering bare-metal memory management (C), pointers, manual memory allocation, and foundational data structures (Linked Lists, Hash Tables, Trees).
 
 
 
