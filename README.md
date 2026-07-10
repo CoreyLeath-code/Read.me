@@ -43,7 +43,7 @@ Aspiring Ph.D. researcher, Software Developer, and ML Engineer specializing in h
 * 🧬 **[Disease_Prediction_Capstone](https://github.com/CoreyLeath-code/Disease_Prediction_Capstone)** — Machine learning diagnostic system mapping clinical data arrays to target classification topologies with rigorous feature evaluation profiles.
 * 🛒 **[DeepSequence-Recommender System Engine](https://github.com/CoreyLeath-code/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, data-drift assertions, and inference latency profiling.
 * 📷 **[Facial-Emotion-Recognition-System Pipeline](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System)** — Robust computer vision pipeline classifying expressions from video streams protected by a 7-tier static linter and inference tracking suite.
-
+[📚 Technical Documentation & Engineering Journals](https://github.com/CoreyLeath-code/Scalable-Event-Driven-Ride-Sharing-Platform/tree/main/docs)
 
 LLM Quant Assistant
 
