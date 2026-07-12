@@ -1,6 +1,144 @@
-# 👨‍💻 Corey Leath | AI Systems Architect & Software Engineer
-
-Aspiring Ph.D. researcher, Software Developer, and ML Engineer specializing in high-throughput MLOps infrastructure, distributed multi-agent frameworks, and autonomous system architecture. Currently architecting scalable microservices in .NET/C# and Python.
+👋 Hi, I'm Corey Leath
+Software Engineer | AI Engineer | MLOps | Distributed Systems
+I'm a Software Engineering student with a focus on AI Engineering, building production-oriented applications across machine learning, backend systems, MLOps, cloud infrastructure, and distributed computing. My goal is to design scalable, maintainable software while continually improving engineering quality through testing, automation, and documentation.
+⭐ Featured Enterprise Projects
+Project
+Focus
+SentinelAI
+AI Reliability & MLOps Platform
+DeepSequence-Recommender
+Transformer Recommendation Engine
+TrojanChat
+Enterprise AI Chat Platform
+LogSight-AI
+Log Analytics & Anomaly Detection
+Facial Emotion Recognition System
+Computer Vision & Deep Learning
+AutoGuard-AI
+Real-Time AI Safety System
+🤖 AI & Machine Learning
+Deep Learning • Computer Vision • NLP • Recommendation Systems
+Projects:
+Facial Emotion Recognition System
+DeepSequence-Recommender
+Disease Prediction Capstone
+SafeSight-AI
+TransformerForge
+Skills:
+PyTorch
+TensorFlow
+CNNs
+Transformers
+LLMs
+Vector Search
+Feature Engineering
+🧠 AI Infrastructure & MLOps
+Production AI • Monitoring • Model Governance
+Projects:
+SentinelAI
+Energy-Demand-Forecasting-DevMLOps
+AWS SageMaker Snowflake ML Pipeline
+PredictiveMaintenance_IoT
+Skills:
+MLflow
+Docker
+Kubernetes
+Terraform
+GitHub Actions
+Prometheus
+Grafana
+☁️ Backend & Distributed Systems
+Scalable APIs • High Performance Systems
+Projects:
+TrojanChat
+LogSight-AI
+IntelliOps-AI
+Neural Network From Scratch (C++)
+Skills:
+FastAPI
+Go
+C++
+REST APIs
+gRPC
+Redis
+Kafka
+📊 Data Engineering & Analytics
+Projects:
+NYC Finance Data Engineering
+LoanDefaultRiskPredictor
+NetRecommender
+Skills:
+Snowflake
+SQL
+Pandas
+ETL
+Data Warehousing
+💹 Quantitative Finance & AI
+Projects:
+Quant LLM Assistant
+Algo Quant Backtester
+Skills:
+Time Series
+Vector Search
+Financial Modeling
+LLM Applications
+💻 Software Engineering
+Projects:
+Software3-Lab
+ML Docker Orchestrator
+Skills:
+Object-Oriented Programming
+Design Patterns
+Clean Architecture
+SOLID Principles
+Testing
+🏗 Engineering Practices
+Across every repository I aim to include:
+GitHub Actions
+Unit Testing
+Integration Testing (where appropriate)
+Code Coverage
+Docker
+Static Analysis
+Security Scanning
+Architecture Diagrams
+API Documentation
+Performance Benchmarks
+CHANGELOG
+Semantic Versioning
+Issue & Pull Request Templates
+🛠 Technical Skills
+Languages
+Python
+C#
+C++
+Go
+Java
+TypeScript
+SQL
+AI / ML
+PyTorch
+TensorFlow
+MLflow
+Hugging Face
+Scikit-learn
+Cloud & DevOps
+AWS
+Docker
+Kubernetes
+Terraform
+GitHub Actions
+Databases
+PostgreSQL
+Snowflake
+Firebase
+📈 Current Goals
+Complete B.S. in Software Development
+Complete M.S. in AI Engineering
+Pursue a Ph.D. in Computer Science (AI)
+Continue building production-quality AI systems
+Contribute to open source
+Expand expertise in distributed AI infrastructure
 
 ### 🚀 Live Engineering Telemetry (Recent Pushes)
 
