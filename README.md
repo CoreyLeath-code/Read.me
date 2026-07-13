@@ -1,144 +1,101 @@
-👋 Hi, I'm Corey Leath
-Software Engineer | AI Engineer | MLOps | Distributed Systems
-I'm a Software Engineering student with a focus on AI Engineering, building production-oriented applications across machine learning, backend systems, MLOps, cloud infrastructure, and distributed computing. My goal is to design scalable, maintainable software while continually improving engineering quality through testing, automation, and documentation.
-⭐ Featured Enterprise Projects
-Project
-Focus
-SentinelAI
-AI Reliability & MLOps Platform
-DeepSequence-Recommender
-Transformer Recommendation Engine
-TrojanChat
-Enterprise AI Chat Platform
-LogSight-AI
-Log Analytics & Anomaly Detection
-Facial Emotion Recognition System
-Computer Vision & Deep Learning
-AutoGuard-AI
-Real-Time AI Safety System
-🤖 AI & Machine Learning
-Deep Learning • Computer Vision • NLP • Recommendation Systems
-Projects:
-Facial Emotion Recognition System
-DeepSequence-Recommender
-Disease Prediction Capstone
-SafeSight-AI
-TransformerForge
-Skills:
-PyTorch
-TensorFlow
-CNNs
-Transformers
-LLMs
-Vector Search
-Feature Engineering
-🧠 AI Infrastructure & MLOps
-Production AI • Monitoring • Model Governance
-Projects:
-SentinelAI
-Energy-Demand-Forecasting-DevMLOps
-AWS SageMaker Snowflake ML Pipeline
-PredictiveMaintenance_IoT
-Skills:
-MLflow
-Docker
-Kubernetes
-Terraform
-GitHub Actions
-Prometheus
-Grafana
-☁️ Backend & Distributed Systems
-Scalable APIs • High Performance Systems
-Projects:
-TrojanChat
-LogSight-AI
-IntelliOps-AI
-Neural Network From Scratch (C++)
-Skills:
-FastAPI
-Go
-C++
-REST APIs
-gRPC
-Redis
-Kafka
-📊 Data Engineering & Analytics
-Projects:
-NYC Finance Data Engineering
-LoanDefaultRiskPredictor
-NetRecommender
-Skills:
-Snowflake
-SQL
-Pandas
-ETL
-Data Warehousing
-💹 Quantitative Finance & AI
-Projects:
-Quant LLM Assistant
-Algo Quant Backtester
-Skills:
-Time Series
-Vector Search
-Financial Modeling
-LLM Applications
-💻 Software Engineering
-Projects:
-Software3-Lab
-ML Docker Orchestrator
-Skills:
-Object-Oriented Programming
-Design Patterns
-Clean Architecture
-SOLID Principles
-Testing
-🏗 Engineering Practices
-Across every repository I aim to include:
-GitHub Actions
-Unit Testing
-Integration Testing (where appropriate)
-Code Coverage
-Docker
-Static Analysis
-Security Scanning
-Architecture Diagrams
-API Documentation
-Performance Benchmarks
-CHANGELOG
-Semantic Versioning
-Issue & Pull Request Templates
-🛠 Technical Skills
-Languages
-Python
-C#
-C++
-Go
-Java
-TypeScript
-SQL
-AI / ML
-PyTorch
-TensorFlow
-MLflow
-Hugging Face
-Scikit-learn
-Cloud & DevOps
-AWS
-Docker
-Kubernetes
-Terraform
-GitHub Actions
-Databases
-PostgreSQL
-Snowflake
-Firebase
-📈 Current Goals
-Complete B.S. in Software Development
-Complete M.S. in AI Engineering
-Pursue a Ph.D. in Computer Science (AI)
-Continue building production-quality AI systems
-Contribute to open source
-Expand expertise in distributed AI infrastructure
+# 👋 Hi, I'm Corey Leath
+
+**Software Engineer | AI Engineer | MLOps | Distributed Systems**
+
+I'm a Software Engineering student focused on AI Engineering and production-oriented software. I build practical systems across machine learning, backend platforms, cloud infrastructure, MLOps, and distributed computing.
+
+My goal is to design scalable, maintainable software while continuously improving engineering quality through testing, automation, documentation, and measurable performance benchmarks.
+
+## 🚀 What I Build
+
+| Area | Focus | Representative Projects |
+|---|---|---|
+| AI & Machine Learning | Deep learning, computer vision, NLP, recommendation systems | Facial Emotion Recognition System, DeepSequence-Recommender, Disease Prediction Capstone, SafeSight-AI, TransformerForge |
+| AI Infrastructure & MLOps | Production AI, monitoring, model governance, deployment pipelines | SentinelAI, Energy-Demand-Forecasting-DevMLOps, AWS SageMaker Snowflake ML Pipeline, PredictiveMaintenance_IoT |
+| Backend & Distributed Systems | Scalable APIs, high-performance services, event-driven systems | TrojanChat, LogSight-AI, IntelliOps-AI, Neural Network From Scratch (C++) |
+| Data Engineering & Analytics | ETL, warehousing, SQL analytics, data quality | NYC Finance Data Engineering, LoanDefaultRiskPredictor, NetRecommender |
+| Quantitative Finance & AI | Time series, vector search, financial modeling, LLM applications | Quant LLM Assistant, Algo Quant Backtester |
+| Software Engineering | Clean architecture, OOP, testing, design patterns | Software3-Lab, ML Docker Orchestrator |
+
+## ⭐ Featured Enterprise Projects
+
+| Project | Focus |
+|---|---|
+| [SentinelAI](https://github.com/CoreyLeath-code/SentinelAI) | AI reliability, monitoring, and MLOps platform |
+| [DeepSequence-Recommender](https://github.com/CoreyLeath-code/DeepSequence-Recommender) | Transformer-style recommendation engine |
+| [TrojanChat](https://github.com/CoreyLeath-code/TrojanChat) | Enterprise AI chat and real-time messaging platform |
+| [LogSight-AI](https://github.com/CoreyLeath-code/LogSight-AI) | Log analytics, anomaly detection, and AIOps telemetry |
+| [Facial Emotion Recognition System](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System) | Computer vision and deep learning pipeline |
+| [AutoGuard-AI](https://github.com/CoreyLeath-code/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform) | Real-time AI safety and geofencing system |
+
+## 🧠 Technical Focus Areas
+
+### 🤖 AI & Machine Learning
+
+**Focus:** Deep Learning • Computer Vision • NLP • Recommendation Systems
+
+**Core skills:** PyTorch, TensorFlow, CNNs, Transformers, LLMs, Vector Search, Feature Engineering
+
+### 🧩 AI Infrastructure & MLOps
+
+**Focus:** Production AI • Monitoring • Model Governance • Automated Deployment
+
+**Core skills:** MLflow, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana
+
+### ☁️ Backend & Distributed Systems
+
+**Focus:** Scalable APIs • High-Performance Systems • Event-Driven Services
+
+**Core skills:** FastAPI, Go, C++, REST APIs, gRPC, Redis, Kafka
+
+### 📊 Data Engineering & Analytics
+
+**Focus:** ETL • Data Warehousing • Analytics Pipelines • Data Quality
+
+**Core skills:** Snowflake, SQL, Pandas, ETL, Data Warehousing
+
+### 💹 Quantitative Finance & AI
+
+**Focus:** Time Series • Strategy Research • Financial Modeling • LLM Research Tools
+
+**Core skills:** Backtesting, Vector Search, Financial Modeling, LLM Applications
+
+## 🏗️ Engineering Practices
+
+Across every repository, I aim to include:
+
+| Practice | Purpose |
+|---|---|
+| GitHub Actions | Automated CI/CD and repeatable validation |
+| Unit and Integration Tests | Reliable behavior across core workflows |
+| Code Coverage | Measurable test completeness |
+| Docker | Portable local and deployment environments |
+| Static Analysis | Code quality and maintainability checks |
+| Security Scanning | Dependency and secret-risk detection |
+| Architecture Diagrams | Clear system design documentation |
+| API Documentation | Usable interfaces and onboarding clarity |
+| Performance Benchmarks | Latency and throughput visibility |
+| CHANGELOG and Semantic Versioning | Traceable release history |
+| Issue and PR Templates | Consistent collaboration workflow |
+
+## 🛠️ Technical Skills
+
+| Category | Tools & Languages |
+|---|---|
+| Languages | Python, C#, C++, Go, Java, TypeScript, SQL |
+| AI / ML | PyTorch, TensorFlow, MLflow, Hugging Face, Scikit-learn |
+| Cloud & DevOps | AWS, Docker, Kubernetes, Terraform, GitHub Actions |
+| Databases | PostgreSQL, Snowflake, Firebase |
+| Engineering | OOP, Design Patterns, Clean Architecture, SOLID Principles, Testing |
+
+## 📈 Current Goals
+
+- Complete B.S. in Software Development
+- Complete M.S. in AI Engineering
+- Pursue a Ph.D. in Computer Science with an AI focus
+- Continue building production-quality AI systems
+- Contribute to open source
+- Expand expertise in distributed AI infrastructure
 
 ### 🚀 Live Engineering Telemetry (Recent Pushes)
 
